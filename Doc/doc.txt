@@ -1,0 +1,8 @@
+1. Yêu cầu thứ nhất ( Kiểm tra key trong plantext đã có hay chưa)
+	- Check missing key in file .Vue
+	- Check missing key in file resouce 
+	- Check missing key in Resouce ( hase in file vue or razor view not has in resouce)
+2. Giao diện
+	- Download file from url 
+	- Chose from computer
+	- Listing list key missing in vue , razor view , resouce 
